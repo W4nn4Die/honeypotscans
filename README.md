@@ -1,2 +1,2 @@
 # honeypotscans
-I this repo I will upload information about all the IPs that tries to access to all my honeypot servers
+In this repository I will upload information from my honeypots, such as samples, IPs scans, attacks types, etc.
